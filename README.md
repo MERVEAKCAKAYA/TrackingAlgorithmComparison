@@ -1,4 +1,4 @@
 # TrackingAlgorithmComparison
 <p>Bu raporda Raspberry Pi4 geliştirme kartı üzerinde nesne takip algoritmaları çalıştırılmış, bunlar arasında çeşitli kıstaslar göz önünde bulundurularak karşılaştırma yapılmıştır.</p>
-[a link](https://github.com/MERVEAKCAKAYA/TrackingAlgorithmComparison/blob/main/readme1.md)
+[a relative link](https://github.com/MERVEAKCAKAYA/TrackingAlgorithmComparison/blob/main/readme1.md)
 
